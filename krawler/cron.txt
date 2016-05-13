@@ -1,0 +1,4 @@
+0 20 * * * python /opt/lampp/htdocs/web/python/crawler/job.py
+0 20 * * * python /opt/lampp/htdocs/web/python/indexers/crappy.py
+0 20 * * * python /opt/lampp/htdocs/web/python/indexers/index-form.py
+0 20 * * * python /opt/lampp/htdocs/web/python/indexers/index-pdf.py
